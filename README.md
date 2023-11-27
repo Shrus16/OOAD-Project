@@ -1,6 +1,6 @@
 # Language Detector
 
-### A language detector is a type of software or tool designed to identify the language in which a given piece of text is written. The primary purpose of a language detector is to automatically determine the language of a given input, which can be useful in various applications. The language detection process typically involves analyzing the statistical patterns and linguistic features of the input text. Machine learning algorithms are commonly employed for this task, using models trained on large datasets containing text samples from various languages. These models learn patterns that are indicative of specific languages and can then predict the language of new, unseen text.
+### Software or a program used to determine the language in which a particular text is written is called a language detector. A language detector's main function is to automatically identify the language of an input, which has several uses. Analyzing the input text's linguistic characteristics and statistical patterns is a common step in the language detection process. For this objective, machine learning algorithms are frequently used, with models trained on big datasets with text samples in many languages. These models can predict the language of new, unseen material by learning patterns characteristic of particular languages.
 
 ### Link for dataset : https://www.kaggle.com/datasets/basilb2s/language-detection
 
